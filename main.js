@@ -7,5 +7,5 @@ app.get('/', function (req, res) {
  })
  
 app.listen(3000,()=>{
-    console.log("Express app is listening on port")
+    console.log("Express app is listening on port 3000")
 })
